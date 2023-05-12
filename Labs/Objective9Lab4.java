@@ -19,7 +19,7 @@ public class Objective9Lab4 {
 
   public static double findAverage(double a, double b){
     double sum = a + b;
-    return sum;
+    return sum - a;
   }
   
 }
